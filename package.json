@@ -1,0 +1,15 @@
+{
+  "name": "resetnpmpassword",
+  "version": "1.0.0",
+  "description": "cnpm密码初始化",
+  "main": "index.js",
+  "scripts": {
+    "reset": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jackson",
+  "license": "ISC",
+  "dependencies": {
+    "utility": "^1.17.0"
+  }
+}
